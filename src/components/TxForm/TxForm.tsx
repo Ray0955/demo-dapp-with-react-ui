@@ -7,7 +7,7 @@ const defaultTx: SendTransactionRequest = {
   validUntil: Math.floor(Date.now() / 1000) + 600,
   messages: [
     {
-      address: 'EQCKWpx7cNMpvmcN5ObM5lLUZHZRFKqYA4xmw9jOry0ZsF9M',
+      address: '123',
       amount: '5000000',
       stateInit: 'te6cckEBBAEAOgACATQCAQAAART/APSkE/S88sgLAwBI0wHQ0wMBcbCRW+D6QDBwgBDIywVYzxYh+gLLagHPFsmAQPsAlxCarA==',
       payload: 'te6ccsEBAQEADAAMABQAAAAASGVsbG8hCaTc/g==',
